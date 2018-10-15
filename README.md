@@ -25,14 +25,16 @@ Partner A
 - [ ] Push
 
 Partner B
-- [ ] Pull
+- [ ] Add
+- [ ] Commit
+- [ ] Push
 
 ## Part 3 - Resolve conflicts
-- [ ] Read the GitHub guide
-- [ ] Discuss as a group
-- [ ] Choose which code to keep
+- [ ] Read [the GitHub guide](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
 
 Partner B
+- [ ] Pull
+- [ ] Edit files and choose what to keep (may involve team discussion)
 - [ ] Add
 - [ ] Commit
 - [ ] Push
